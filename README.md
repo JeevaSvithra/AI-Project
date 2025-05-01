@@ -28,7 +28,7 @@ Just upload your **PDF or image-based resume** — and get personalized career s
 
 1. **Clone this repository**:
    ```
-   git clone https://github.com/yourusername/ai-resume-analyzer.git
+   git clone https://github.com/JeevaSvithra/AI-Project.git
    cd ai-resume-analyzer
    ```
 
